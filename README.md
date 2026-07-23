@@ -14,7 +14,7 @@ status: "A aguardar correções da entidade" # Entre as aspas escreve uma das se
 - Data de criação: 09/07/2026
 - URL:https://www.cm-vfxira.pt/
 - Propriedade: CM de Vila Franca de Xira
-- Candidatura: Prata
+- Candidatura: Ouro
 
 ## Relatório de auditoria
 
